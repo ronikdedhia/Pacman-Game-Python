@@ -67,14 +67,6 @@ Pacman-Game-Python/
 └── game_over_sound.ogg  # Game-over audio
 ```
 
-## Demo
-
-| Preview | Description |
-|---------|-------------|
-| _(demo GIF placeholder)_ | Gameplay — collecting dots and avoiding enemies |
-| _(screenshot placeholder)_ | Main menu (Start / About / Exit) |
-| _(screenshot placeholder)_ | Game-over screen with score |
-
 ## License
 
 MIT License — see [LICENSE](LICENSE) for details.
